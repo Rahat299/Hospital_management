@@ -1,0 +1,6 @@
+1. CASE study converted to OUR Service 
+2. INfo page turned into general info 
+3. We need to build a profile page individually
+4. cse study changed in web.php routes as well to services [ case-study -> our-service ]
+6. Status needs to be remoane to report status and add a new visiting status
+
